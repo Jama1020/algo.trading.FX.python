@@ -1,0 +1,13 @@
+el segundo modelo "Graficar precio EURUSD, crear indicadores MA30 y Volumen_V2" es la continuacion del primero donde incluimos la funcion
+heikenashi, la definicion de la funcion tambien la subí para que lo puedan corren en su totalidad sin embargo en esta me aparece el siguente 
+error cuando lo ejecuto:
+
+trace2
+
+ValueError:
+  invalid value type 'pandas.core.frame.DataFrame' received for the 'close' property of ohlc
+      the 'close' property is an array that may be specified as a tuple, list numpy array or pandas series
+      
+    
+    
+  **************ALGUIEN SABE COMO SOLUCIONAR ESTE ERROR?****************************
