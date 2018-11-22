@@ -1,5 +1,5 @@
 el segundo modelo "Graficar precio EURUSD, crear indicadores MA30 y Volumen_V2" es la continuacion del primero donde incluimos la funcion
-heikenashi, la definicion de la funcion tambien la subí para que lo puedan corren en su totalidad sin embargo en esta me aparece el siguente 
+heikenashi, la definicion de la funcion tambien la subí (funciones_jama) para que lo puedan corren en su totalidad sin embargo en esta me aparece el siguente 
 error cuando lo ejecuto:
 
 trace2
